@@ -44,5 +44,5 @@
 
 ### Author
 
-Sami3l - [@linkedIn](https://www.linkedin.com/in/sami-elhadraoui-532971273/)
-
+Sami Elhadraoui - [@linkedIn](https://www.linkedin.com/in/sami-elhadraoui-532971273/)
+Hamza Hadeq - [@linkedIn](https://www.linkedin.com)
