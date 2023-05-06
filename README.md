@@ -46,3 +46,4 @@
 
 * Sami Elhadraoui - [@linkedIn](https://www.linkedin.com/in/sami-elhadraoui-532971273/)
 * Hamza Hadeq - [@linkedIn](https://www.linkedin.com)
+* Kawtar - [@linkedIn](https://www.linkedin.com)
